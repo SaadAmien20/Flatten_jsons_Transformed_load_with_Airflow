@@ -18,7 +18,7 @@ c. Initialized the columns of the transformed columns and I got on extra column 
 exercise_3 like ‘campaignId, platform, campaignName’
 d. Load and export result as csv to check the output based on the conditions
 
-### Exercise 3_Airflwo load to csv:
+### Exercise 3_Airflow load to csv:
 1. My Dag consist from 4 tasks
 a. Use previous functions to flattened_json to get columns
 b. transform_Json to transform the data.
